@@ -1,0 +1,6 @@
+*.csv
+.RHistory
+save
+stylo_config.txt
+table_with_frequencies.txt
+
