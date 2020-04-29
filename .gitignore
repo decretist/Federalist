@@ -3,6 +3,7 @@
 .DS_Store
 .RData
 .RHistory
+.ipynb_checkpoints
 save
 stylo_config.txt
 table_with_frequencies.txt
